@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Koddie-arch
-- 👀 I’m interested in technology ith knowledge on a bit of everything
+- 👀 I’m interested in technology with knowledge on a bit of everything
 - 🌱 I’m currently learning front-end web development
 
 <!---
